@@ -12,7 +12,8 @@
 #include <stdlib.h>
 #include <time.h>
 using namespace std;
-//use fout and fin to create user.txt and pass.txt
+//Make sure to add (.txt) files manually as they are not added automatically.
+//File Handling is used in this project.
 
 struct BookInfo
 {
