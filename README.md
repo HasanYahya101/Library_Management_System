@@ -1,5 +1,6 @@
 # Programming Fundamentals Term Project
 ## 2022 Fall (Fast Nuces Lahore)
+### Feel free to use the code however, you like.
 
 This project is a library management system that allows users to access its features by logging in or signing up.
 The system allows them to store, search, add, and delete books from the library database and also allows them to lend and return books.
@@ -13,6 +14,6 @@ The system is designed to be efficient and user-friendly, with features that all
 Note: You will have to add (.txt) files in your PC Manually.
 
 This my First College Group Project (1st Semester). 
-I probably wrote In-Efficient code, so if you whould like to change it, feel free to do so.
+I probably wrote **In-Efficient code**, so if you whould like to change it, feel free to do so.
 The Project Proposal is just different Students suggesting different Projects. 
-In the end our Suggestion was not selected and a Library Management System (Project Proposal) was Selected.
+In the end our Suggestion was not selected and a **Library Management System** (Project Proposal) was Selected.
