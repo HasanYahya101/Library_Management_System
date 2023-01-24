@@ -11,3 +11,8 @@ The system ensures data integrity and maintains two arrays of structs in order t
 The system is designed to be efficient and user-friendly, with features that allow users to easily access the library database and manage their book lending and returning activities.
 
 Note: You will have to add (.txt) files in your PC Manually.
+
+This my First College Group Project (1st Semester). 
+I probably wrote In-Efficient code, so if you whould like to change it, feel free to do so.
+The Project Proposal is just different Students suggesting different Projects. 
+In the end our Suggestion was not selected and a Library Management System was Selected.
