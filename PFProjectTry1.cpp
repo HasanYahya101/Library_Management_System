@@ -12,7 +12,8 @@
 #include <stdlib.h>
 #include <time.h>
 using namespace std;
-//Make sure to add (.txt) files manually as they are not added automatically.
+//Make sure to add the given (.txt) files manually as they are not added automatically.
+//user.txt, books.txt, lendings.txt, students.txt, returns.txt
 //File Handling is used in this project.
 
 struct BookInfo
