@@ -8,7 +8,7 @@ The data is stored in text files on the local storage and the system tracks the 
 
 This project is implemented using **C++**. 
 It follows instructions that ensure the originality of code and minimize chances of plagiarism. 
-The system ensures data integrity and maintains two arrays of structs in order to store the data of Books and Lendings in the memory. 
+The system ensures data integrity in order to store the data of Books and Lendings in the memory. 
 The system is designed to be efficient and user-friendly, with features that allow users to easily access the library database and manage their book lending and returning activities.
 
 **Note:** *You will have to add (.txt) files in your PC Manually. The file names are user.txt, books.txt, lendings.txt, students.txt, returns.txt. Without these files, the code will not run. This code runs on Console, also the release was compiled using Mingw compiler on Windows.*
