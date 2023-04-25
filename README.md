@@ -1,4 +1,4 @@
-# Programming Fundamentals Term Project
+# Programming Fundamentals: Term Project
 ## 2022 Fall (Fast Nuces Lahore)
 ### *>>Feel free to use the code however, you like.*
 
