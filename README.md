@@ -6,7 +6,7 @@ This project is a _**Library Management System**_ that allows users to access it
 The system allows them to `store`, `search`, `add`, and `delete` books from the `library database` and also allows them to `lend` and `return` books.
 The data is stored in text files on the `local storage` and the system tracks the fines collected from `late returns`.
 
-This project is implemented using **C++**, and runs on Console. 
+This project is implemented using **C++**, and runs on Console.
 It follows instructions that ensure the originality of code and minimize chances of plagiarism. 
 The system ensures data integrity in order to store the data of Books and Lendings in the memory. 
 The system is designed to be efficient and user-friendly, with features that allow users to easily access the library database and manage their book lending and returning activities.
